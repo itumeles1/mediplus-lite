@@ -934,7 +934,7 @@ body{
 	border-radius: 50%;
 }
 .fun-facts .single-fun:hover i{
-	color:#295050ca;
+	color:#6a6333ca;
 	background:#fff;
 	border-color:transparent;
 }
@@ -1692,6 +1692,7 @@ body{
 /* Table Bottom */
 .pricing-table .table-bottom {
 	margin-top: 25px;
+	background-color: #01B2B7;
 }
 .pricing-table .btn {
 	padding: 12px 25px;
