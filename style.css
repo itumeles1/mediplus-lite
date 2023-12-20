@@ -252,10 +252,10 @@ body{
 /* Topbar */
 .header .topbar{
 	background-color:#fff;
-	border-bottom:1px solid #eee;
+	border-bottom:none #eee;
 }
 .header .topbar{
-	padding:15px 0;
+	padding:0px 0;
 }
 .header .top-link{
 	float:left;
