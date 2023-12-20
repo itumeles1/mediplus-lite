@@ -633,7 +633,7 @@ body{
 	margin:0;
 }
 .slider .single-slider .btn.primary{
-	background:#2C2D3F;
+	background:#949540;
 	color:#fff;
 }
 .slider .single-slider .btn.primary:before{
@@ -862,7 +862,7 @@ body{
 }
 .Feautes .single-features .signle-icon i{
 	font-size:50px;
-	color:#295050ca;
+	color:#8f8542ca;
 	position:absolute;
 	left:50%;
 	margin-left:-50px;
@@ -910,7 +910,7 @@ body{
 	background-repeat:no-repeat;
 }
 .fun-facts .single-fun {
-	
+background-color: rgba(150, 135, 63, 0.5);	
 }
 .fun-facts .single-fun i {
 	position: absolute;
