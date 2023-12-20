@@ -139,7 +139,7 @@ body{
 	box-shadow: 0px 0px 10px #00000026;
 }
 #scrollUp:hover{
-	background:#2C2D3F;
+	background:#a49d52;
 }
 /* Color Plate */
 .color-plate {
@@ -170,7 +170,7 @@ body{
 	line-height: 45px;
 	font-size: 21px;
 	border-radius: 5px 0 0 5px;
-	background: #295050ca;
+	background: #295f5fca;
 	text-align: center;
 	color: #fff !important;
 	top: 0;
@@ -203,7 +203,7 @@ body{
 	background:#295050ca;
 }
 .color-plate span.color2{
-	background:#2196F3;
+	background:#979632;
 }
 .color-plate span.color3{
 	background:#32B87D;
@@ -268,7 +268,7 @@ body{
 	margin-right:0px;
 }
 .header .top-link li a{
-	color:#2C2D3F;
+	color:#999138;
 	font-size:14px;
 	font-weight:400;
 }
@@ -329,7 +329,7 @@ body{
 	margin:0;
 }
 .header .nav li a {
-	color: #2C2D3F;
+	color: #9a973e;
 	font-size: 14px;
 	font-weight: 500;
 	text-transform: capitalize;
@@ -448,7 +448,7 @@ body{
 	opacity: 0;
 	visibility: hidden;
 	top: 74px;
-	border-left:3px solid #2889e4;
+	border-left:3px solid #a69746;
 }
 .header .nav li:hover .dropdown{
 	opacity:1;
@@ -551,7 +551,7 @@ body{
 	border-radius: 3px;
 	border: none;
 	background: #fff;
-	color: #2C2D3F;
+	color: #a39a48;
 }
 .header .search-form button {
 	position: absolute;
@@ -614,7 +614,7 @@ body{
 	color:#295050ca;
 }
 .slider .single-slider p {
-	color: #2C2D3F;
+	color: #918743;
 	margin-top: 27px;
 	font-weight: 400;
 }
@@ -884,7 +884,7 @@ body{
 }
 .Feautes .single-features h3{
 	padding-top: 128px;
-	color:#2C2D3F;
+	color:#96873f;
 	font-weight:600;
 	font-size:21px;
 }
@@ -967,7 +967,7 @@ body{
 .why-choose .choose-left h3{
 	font-size:24px;
 	font-weight:600;
-	color:#2C2D3F;
+	color:#9c9836;
 	position:relative;
 	padding-bottom:20px;
 	margin-bottom:24px;
@@ -1329,7 +1329,7 @@ body{
 .services .single-service h4{
 	text-transform:capitalize;
 	margin-bottom:25px;
-	color:#2C2D3F;
+	color:#919b3c;
 }
 .services .single-service h4 a{
 	color:#2C2D3F;
@@ -1361,7 +1361,7 @@ body{
 }
 .services-details-img blockquote {
 	font-size: 15px;
-	color: #4a6f8a;
+	color: #8a894a;
 	background-color: #295050ca;
 	padding: 30px 75px;
 	line-height: 26px;
@@ -1455,7 +1455,7 @@ body{
 }
 .testimonials .single-testimonial .name {
 	margin-top: 22px;
-	color: #2C2D3F;
+	color: #989a42;
 	font-weight: 500;
 	font-size: 15px;
 }
@@ -1554,7 +1554,7 @@ body{
 }
 .departments .department-tab .tab-pane .department-left{}
 .departments .department-tab .tab-pane .department-left h3{
-	color:#2C2D3F;
+	color:#93973e;
 	font-weight:600;
 	font-size:26px;
 	position:relative;
@@ -1568,7 +1568,7 @@ body{
 	bottom:0;
 	height:3px;
 	width:50px;
-	background:#2C2D3F;
+	background:#9c8a3d;
 }
 .departments .department-tab .tab-pane .department-left .p1 {
 	color: #295050ca;
@@ -1638,7 +1638,7 @@ body{
 }
 .pricing-table .single-table .title {
 	font-size: 21px;
-	color: #2C2D3F;
+	color: #909133;
 	margin-top: 30px;
 	margin-bottom: 15px;
 }
@@ -1700,7 +1700,7 @@ body{
 	color:#fff;
 }
 .pricing-table .btn:before{
-	background:#2C2D3F;
+	background:#a29346;
 }
 .pricing-table .btn:hover{
 	color:#fff;
@@ -1816,7 +1816,7 @@ body{
 	z-index: 99;
 	margin: -23px 0 0 -75px;
 	font-size: 15px;
-	background: #2889E4;
+	background: #a7a13f;
 	font-size: 13px;
 	line-height: 46px;
 	padding:0;
@@ -1845,7 +1845,7 @@ body{
 	font-size: 18px;
 	text-transform: capitalize;
 	font-weight: 500;
-	color: #2C2D3F;
+	color: #918930;
 }
 .team .t-bottom h2 a:hover{
 	color:#295050ca;
@@ -1879,7 +1879,7 @@ body{
 	display: block;
 	font-weight: 400;
 	font-size: 15px;
-	color: #2C2D3F;
+	color: #978c39;
 	margin-bottom: 10px;
 }
 .doctor-details-item .doctor-details-contact .basic-info li:last-child {
@@ -1924,7 +1924,7 @@ body{
 .doctor-details-item .doctor-details-work h3 {
 	font-weight: 600;
 	font-size: 20px;
-	color: #2C2D3F;
+	color: #999a3a;
 	margin-top: 30px;
 }
 .doctor-details-item .doctor-details-work .time-sidual{
@@ -1958,7 +1958,7 @@ body{
 .doctor-details-item .doctor-details-biography h3 {
   font-weight: 600;
   font-size: 24px;
-  color: #2f60bd;
+  color: #a4a44d;
   margin-bottom: 25px;
   margin-top: 25px;
 }
