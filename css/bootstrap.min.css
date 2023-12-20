@@ -6,7 +6,7 @@
  */
 
 :root {
-    --blue: #007bff;
+    --blue: #9a994b;
     --indigo: #6610f2;
     --purple: #6f42c1;
     --pink: #e83e8c;
@@ -19,7 +19,7 @@
     --white: #fff;
     --gray: #868e96;
     --gray-dark: #343a40;
-    --primary: #007bff;
+    --primary: #cebe48;
     --secondary: #868e96;
     --success: #28a745;
     --info: #17a2b8;
@@ -133,7 +133,7 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #212529;
+    color: #999f42;
     text-align: left;
     background-color: #fff
 }
